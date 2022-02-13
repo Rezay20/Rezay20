@@ -1,4 +1,0 @@
-tasksio
-requests
-discord.py
-discord
