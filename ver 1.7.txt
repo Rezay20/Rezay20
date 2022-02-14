@@ -2,7 +2,7 @@ Enjoy  (;
 
 pass and user Rezay
 
-open 1-Rev_Proc click add files select Steam and change MD5 
+open MD5 Changer click add files select Steam and change MD5 
 
 info:this is a AHk script and vanguard not block it so it is 100 %  [Undetected] // Start first script than Valorant
 
