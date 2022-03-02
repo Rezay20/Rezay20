@@ -4,7 +4,7 @@ pass and user Rezay
 
 open MD5 Changer click add files select Steam and change MD5 
 
-info:this is a AHk script and vanguard not block it so it is 100 %  [Undetected] // Start first script than Valorant
+info:this is a AHk script and vanguard not block it so it is 100 %  [Undetected] // Start first script than Valorant, i think you need autohotkey
 
 
 Added Anti AFK
